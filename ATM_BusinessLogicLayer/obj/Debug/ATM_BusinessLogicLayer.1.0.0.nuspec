@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ATM_BusinessLogicLayer</id>
+    <version>1.0.0</version>
+    <authors>ATM_BusinessLogicLayer</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\EAD\Assignmnet#1\ATM_BusinessLogicLayer\bin\Debug\net5.0\ATM_BusinessLogicLayer.dll" target="lib\net5.0\ATM_BusinessLogicLayer.dll" />
+  </files>
+</package>

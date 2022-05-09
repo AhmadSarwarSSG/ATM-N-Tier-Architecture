@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ATM_BusinessLogicLayer\ATM_BusinessLogicLayer.csproj" />
+    <ProjectReference Include="..\ATM_BusinessObject\ATM_BusinessObject.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+E:\EAD\Assignmnet#1\ATM_BusinessObject\bin\Debug\net5.0\ATM_BusinessObject.deps.json
+E:\EAD\Assignmnet#1\ATM_BusinessObject\bin\Debug\net5.0\ATM_BusinessObject.dll
+E:\EAD\Assignmnet#1\ATM_BusinessObject\bin\Debug\net5.0\ref\ATM_BusinessObject.dll
+E:\EAD\Assignmnet#1\ATM_BusinessObject\bin\Debug\net5.0\ATM_BusinessObject.pdb
+E:\EAD\Assignmnet#1\ATM_BusinessObject\obj\Debug\net5.0\ATM_BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\EAD\Assignmnet#1\ATM_BusinessObject\obj\Debug\net5.0\ATM_BusinessObject.AssemblyInfoInputs.cache
+E:\EAD\Assignmnet#1\ATM_BusinessObject\obj\Debug\net5.0\ATM_BusinessObject.AssemblyInfo.cs
+E:\EAD\Assignmnet#1\ATM_BusinessObject\obj\Debug\net5.0\ATM_BusinessObject.csproj.CoreCompileInputs.cache
+E:\EAD\Assignmnet#1\ATM_BusinessObject\obj\Debug\net5.0\ATM_BusinessObject.dll
+E:\EAD\Assignmnet#1\ATM_BusinessObject\obj\Debug\net5.0\ref\ATM_BusinessObject.dll
+E:\EAD\Assignmnet#1\ATM_BusinessObject\obj\Debug\net5.0\ATM_BusinessObject.pdb
+E:\EAD\Assignmnet#1\ATM_BusinessObject\obj\Debug\net5.0\ATM_BusinessObject.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\bin\Debug\net5.0\ATM_DataAccessLayer.deps.json
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\bin\Debug\net5.0\ATM_DataAccessLayer.dll
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\bin\Debug\net5.0\ref\ATM_DataAccessLayer.dll
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\bin\Debug\net5.0\ATM_DataAccessLayer.pdb
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\bin\Debug\net5.0\ATM_BusinessObject.dll
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\bin\Debug\net5.0\ATM_BusinessObject.pdb
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\obj\Debug\net5.0\ATM_DataAccessLayer.csproj.AssemblyReference.cache
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\obj\Debug\net5.0\ATM_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\obj\Debug\net5.0\ATM_DataAccessLayer.AssemblyInfoInputs.cache
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\obj\Debug\net5.0\ATM_DataAccessLayer.AssemblyInfo.cs
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\obj\Debug\net5.0\ATM_DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\obj\Debug\net5.0\ATM_DataAccessLayer.csproj.CopyComplete
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\obj\Debug\net5.0\ATM_DataAccessLayer.dll
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\obj\Debug\net5.0\ref\ATM_DataAccessLayer.dll
+E:\EAD\Assignmnet#1\ATM_DataAccessLayer\obj\Debug\net5.0\ATM_DataAccessLayer.pdb
